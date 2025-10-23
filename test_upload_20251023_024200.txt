@@ -1,0 +1,3 @@
+molecule_name,smiles,score,timestamp
+TEST_MOL,CC(C)C,1.234,2025-10-23
+TEST_MOL2,CCCC,0.987,2025-10-23
